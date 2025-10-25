@@ -19,4 +19,5 @@ thru
 <<<<<<< TAIL test actual is HEAD
 echo "first project develop branch 2nd update"
 >>>>>>> 131c6a17a0daffff5145c5fa5d27397ff4dec7c0
-123
+temp "123"
+temp "245"
