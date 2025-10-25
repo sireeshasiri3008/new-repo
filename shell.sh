@@ -1,4 +1,4 @@
 echo "Hello-world!1"
 echo "first project"
-echo "first project normal branch"
+<<<<<<< TAIL test actual is HEAD
 echo "first project develop branch 2nd update"
